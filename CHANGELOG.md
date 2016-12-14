@@ -5,8 +5,8 @@ service announcements](README.md#mailing-list-for-service-announcements).
 
 ## 2016-12-05
 ### Added
-- Added [endpoint](sections/client_donation_pledge_details.md) for [donation_pledges](sections/client_donation_pledges_list.md).
-- Added [endpoint](sections/client_forwarding_request_details.md) for [forwarding requests](sections/client_donation_pledges_list.md).
+- Added [endpoint](sections/client_donation_pledge_details.md) for [donation pledges](sections/client_donation_pledges_list.md).
+- Added [endpoint](sections/client_forwarding_request_details.md) for [forwarding requests](sections/client_forwarding_requests_list.md).
 
 ## 2016-12-01
 ### Removed
