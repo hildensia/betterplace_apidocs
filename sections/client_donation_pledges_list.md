@@ -45,7 +45,7 @@ The fields for the CSV files are:
 - receiver_type, eg. `Project`
 - receiver_id, eg. `1114`
 - amount_in_cents, eg. `12000`
-- client_reference, eg. `123123123123
+- client_reference, eg. `123123123123`
 - datetime (ISO8601 with Timezone), eg `2007-11-01T13:15:30Z`
 
 Please use these names as column titles, use utf-8, use ","

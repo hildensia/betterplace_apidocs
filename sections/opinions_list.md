@@ -310,12 +310,44 @@ access rights in order to see this information.
 
 ```json
 {
-  "total_entries": 3,
+  "total_entries": 4,
   "offset": 0,
   "total_pages": 1,
   "current_page": null,
   "per_page": 3,
   "data": [
+    {
+      "id": 1408990,
+      "created_at": "2016-12-12T11:33:00+01:00",
+      "updated_at": "2016-12-13T12:21:43+01:00",
+      "matched": false,
+      "score": "positive",
+      "author": {
+        "name": "Johannes K.",
+        "picture": {
+          "links": [
+            {
+              "rel": "fill_100x100",
+              "href": "https://asset1.betterplace.org/uploads/donation/profile_picture/228/6da/7d1b47d2d35e6447993fd0fee33b36846/fill_100x100_bp1481623915_johanneskulick-bp.jpg"
+            },
+            {
+              "rel": "original",
+              "href": "https://asset1.betterplace.org/uploads/donation/profile_picture/228/6da/7d1b47d2d35e6447993fd0fee33b36846/crop_original_bp1481623915_johanneskulick-bp.jpg"
+            }
+          ]
+        },
+        "links": [
+
+        ]
+      },
+      "message": "asdfasdf",
+      "links": [
+        {
+          "rel": "project",
+          "href": "https://api.betterplace.org/de/api_v4/projects/1114.json"
+        }
+      ]
+    },
     {
       "id": 1408906,
       "created_at": "2016-12-06T12:38:03+01:00",
@@ -335,21 +367,6 @@ access rights in order to see this information.
       "id": 1408905,
       "created_at": "2016-12-06T12:37:57+01:00",
       "updated_at": "2016-12-06T12:37:57+01:00",
-      "matched": false,
-      "score": "positive",
-      "author": null,
-      "message": "",
-      "links": [
-        {
-          "rel": "project",
-          "href": "https://api.betterplace.org/de/api_v4/projects/1114.json"
-        }
-      ]
-    },
-    {
-      "id": 1408904,
-      "created_at": "2016-12-06T12:37:02+01:00",
-      "updated_at": "2016-12-06T12:37:02+01:00",
       "matched": false,
       "score": "positive",
       "author": null,

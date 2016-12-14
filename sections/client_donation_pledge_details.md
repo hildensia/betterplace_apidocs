@@ -119,7 +119,7 @@ part of the <code>failure_reason</code>.
 <li><code>pool_missing</code> No pool available
 <li><code>pool_empty</code> Not enough money on the pool
 <li><code>receiver_prohibited_from_receiving_donations</code> The forwarding request's receiver may not receive donations
-<li><code>donation_invalid</code> Generic error, look at `failure_reason` for details
+<li><code>donation_invalid</code> Generic error, look at <code>failure_reason</code> for details
 </ul>
 This list might be extended at any time. Please
 make sure you receive a notification if you encounter
