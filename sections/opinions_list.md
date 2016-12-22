@@ -319,7 +319,9 @@ access rights in order to see this information.
     {
       "id": 1408990,
       "created_at": "2016-12-12T11:33:00+01:00",
-      "updated_at": "2016-12-13T12:21:43+01:00",
+      "updated_at": "2016-12-21T12:07:47+01:00",
+      "donated_amount_in_cents": 100,
+      "matched_amount_in_cents": 0,
       "matched": false,
       "score": "positive",
       "author": {
@@ -328,11 +330,11 @@ access rights in order to see this information.
           "links": [
             {
               "rel": "fill_100x100",
-              "href": "https://asset1.betterplace.org/uploads/donation/profile_picture/228/6da/7d1b47d2d35e6447993fd0fee33b36846/fill_100x100_bp1481623915_johanneskulick-bp.jpg"
+              "href": "https://asset1.betterplace.org/uploads/donation/profile_picture/228/6da/7d1b47d2d35e6447993fd0fee33b36846/fill_100x100_bp1482318467_johanneskulick-bp.jpg"
             },
             {
               "rel": "original",
-              "href": "https://asset1.betterplace.org/uploads/donation/profile_picture/228/6da/7d1b47d2d35e6447993fd0fee33b36846/crop_original_bp1481623915_johanneskulick-bp.jpg"
+              "href": "https://asset1.betterplace.org/uploads/donation/profile_picture/228/6da/7d1b47d2d35e6447993fd0fee33b36846/crop_original_bp1482318467_johanneskulick-bp.jpg"
             }
           ]
         },
